@@ -1,4 +1,4 @@
 a = 20
 print(a)
-c = "string
+c = "string"
 print(c)
